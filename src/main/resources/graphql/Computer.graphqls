@@ -1,0 +1,6 @@
+type Computer{
+    proce:String,
+    ram:String,
+    hardDrive:String,
+    price:Float
+}
